@@ -12,7 +12,4 @@ Tech enthusiast & developer navigating the worlds of C, C++, Java, PHP, and Pyth
 ![](https://streak-stats.demolab.com/?user=Yueeox&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yueeox&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Yueeox&icon=6&color=13)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
